@@ -1,5 +1,7 @@
 # First-Contribution
 Making Your First Contribution to an Open Source Project
+![image](https://miro.medium.com/max/1400/1*Ckr3Y5ocCmaft055NYZa0Q.png)
+
 
 Hello There, if you are new to Github, and want to dive into the world of open source contribution, you are at right place. Just follow this tutorial, and you will be done with your first contribution to open source.
 
@@ -53,7 +55,7 @@ Or you can upload place picture in pictures folder and then add that in contribu
 
 
 
-# Commiting Changes
+# Committing Changes
 Now it's time to commit changes. \
 First, let's check the status of repository for any changed files.
 ```
@@ -90,7 +92,7 @@ git push -u myFirstContribution
 
 
 # Generating Pull Request
-Now, navigate to your repository on github.com. There will be an option of compare and genrate Pull Request, just click that. If it is not showing, refresh the page. 
+Now, navigate to your repository on github.com. There will be an option of compare and generate Pull Request, just click that. If it is not showing, refresh the page. 
 
 After that add the details of what you have done, and go ahead. \
 Finally, I will review it and merge in the main branch, and you will be a contributor to this open source list :))))
