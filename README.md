@@ -35,7 +35,7 @@ Great, now you have cloned the app to your machine.
 # Adding New Branch
 For making changes, we will make a separate branch, so that this doesn't mess up with the main branch. We do this because if something goes wrong, we can discard this branch.
 
-First change directory to the cloned repository using ```cd First-Contribution```\
+First change directory to the cloned repository using ```cd First-Contribution```
 Now, in git bash, write this command:
 ```
 git switch -c <your-branch-name>
@@ -92,4 +92,5 @@ git push -u myFirstContribution
 # Generating Pull Request
 Now, navigate to your repository on github.com. There will be an option of compare and genrate Pull Request, just click that. If it is not showing, refresh the page. 
 
-After that add the details of what you have done, and go ahead. \ Finally, I will review it and merge in the main branch, and you will be a contributor to this open source list :))))
+After that add the details of what you have done, and go ahead. \
+Finally, I will review it and merge in the main branch, and you will be a contributor to this open source list :))))
