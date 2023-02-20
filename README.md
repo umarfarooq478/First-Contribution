@@ -47,5 +47,5 @@ git switch -c myFirstContribution
 ```
 
 # Making Changes
-Now you can make the required changes. For this repository, you should add your picture to Contributors.md\
-That's basic html, so you should figure it out your self. One thing for getting the image link is that you can get the link
+Now you can make the required changes. For this repository, you should add your picture to Contributors.md with comments\
+That's basic html, so you should figure it out your self. One thing for getting the image link is that you can get the rounded image from this link : https://images.weserv.nl/?url=avatars.githubusercontent.com/u/94343225?v=4&h=50&w=50&fit=cover&mask=circle&maxage=7d , by changing 94243225 with your id.
