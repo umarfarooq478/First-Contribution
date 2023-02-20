@@ -32,5 +32,20 @@ git clone https://github.com/<your-username>/First-Contribution
 ```
 Great, now you have cloned the app to your machine.
 
-# Making Changes
+# Adding New Branch
 For making changes, we will make a separate branch, so that this doesn't mess up with the main branch. We do this because if something goes wrong, we can discard this branch.
+
+First change directory to the cloned repository using ```cd First-Contribution```\
+Now, in git bash, write this command:
+```
+git switch -c <your-new-branch-name>
+```
+
+For example:
+```
+git switch -c myFirstContribution
+```
+
+# Making Changes
+Now you can make the required changes. For this repository, you should add your picture to Contributors.md\
+That's basic html, so you should figure it out your self. One thing for getting the image link is that you can get the link
