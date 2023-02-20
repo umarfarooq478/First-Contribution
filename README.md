@@ -65,7 +65,7 @@ Now, stage the changed files, using this command:
 git add .
 ```
 
-The dot is for all changed files, if you want to change a particular file, you can use it's name as ```git add <filename>```\
+The dot is for all changed files, if you want to change a particular file, you can use it's name as ```git add <filename>```
 
 Now, commit the changes.
 ```
